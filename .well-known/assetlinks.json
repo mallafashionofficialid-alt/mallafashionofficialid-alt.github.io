@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "id.co.mallaofficial.portal",
+    "sha256_cert_fingerprints": [
+      "B9:7B:F7:32:47:64:C9:47:62:46:EB:BD:A7:0D:1E:E2:14:21:26:8C:E4:6B:7D:68:8B:A6:73:57:E0:EC:2D:A9"
+    ]
+  }
+}]
